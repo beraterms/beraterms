@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Berat, I'm studying computer engineering and cyber security.
+- 👀 I’m interested in programming, reading.
+- 🌱 I’m currently learning C++, C and Java programming language.
+- 📫 My mail adress is beratermisdesign@gmail.com
